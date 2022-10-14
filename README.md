@@ -7,12 +7,14 @@ https://f-droid.org/repo/com.termux_117.apk
 - Step di bawah ini untuk install tools nya.
 
 # Update Package 
+```shell
 $ pkg update && upgrade
 $ pkg install curl
 $ pkg install php7
 $ pkg install git
 
 # Install tools
+```shell
 $ git clone https://github.com/ekianugrah/tembaktri
 $ cd tembaktri
 $ php scripttri.php
