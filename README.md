@@ -14,7 +14,6 @@ $ pkg install php7
 $ pkg install git
 
 # Install tools
-```shell
 $ git clone https://github.com/ekianugrah/tembaktri
 $ cd tembaktri
 $ php scripttri.php
