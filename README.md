@@ -1,5 +1,4 @@
 # Download Apps Termux in F-DROID 
-```shell
 https://f-droid.org/repo/com.termux_117.apk
 
 - Jika sudah anda download maka lanjut ke step di bawah ini 
@@ -7,8 +6,6 @@ https://f-droid.org/repo/com.termux_117.apk
 
 - Step di bawah ini untuk install tools nya.
 
-# Installations command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
-```shell
 # Update Package 
 $ pkg update && upgrade
 $ pkg install curl
@@ -21,7 +18,6 @@ $ cd tembaktri
 $ php scripttri.php
 
 # CATATAN !
-```shell
 Gunakan tools ini dengan bijak,jangan diperjual belikan.
 
 regards,
