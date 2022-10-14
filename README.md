@@ -18,4 +18,11 @@ $ pkg install git
 # Install tools
 $ git clone https://github.com/ekianugrah/tembaktri
 $ cd tembaktri
-$ php scriptri.php
+$ php scripttri.php
+
+# CATATAN !
+```shell
+Gunakan tools ini dengan bijak,jangan diperjual belikan.
+
+regards,
+**EkiRezpectorz**
