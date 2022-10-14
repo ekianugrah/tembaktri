@@ -1,0 +1,2 @@
+# tembaktri
+Tembak kuota tri
