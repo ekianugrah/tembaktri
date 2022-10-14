@@ -6,9 +6,9 @@ https://f-droid.org/repo/com.termux_117.apk
 
 - Step di bawah ini untuk install tools nya.
 
-# Cara Pemasangan 
+# Cara Pemasangan
+Buka Termux Lalu ketik dibawah ini sesuai urutan
 ```shell
-# Install commands
 $ pkg update && upgrade
 $ pkg install curl
 $ pkg install php7
